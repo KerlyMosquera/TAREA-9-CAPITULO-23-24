@@ -403,6 +403,9 @@ nominal de 208 V.) Compare sus resultados con los del problema 34.
 
 45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
 
+![image](https://user-images.githubusercontent.com/84458025/132720032-4baad452-a655-4f1e-b2c5-6ff417221407.png)
+
+![image](https://user-images.githubusercontent.com/84458025/132720138-9fb0e903-b090-401c-b656-edc278f45cd1.png)
 
 ### 3.2.6 MEDICIÓN DE POTENCIA EN CIRCUITOS TRIFÁSICOS 
 47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
@@ -411,42 +414,81 @@ nominal de 208 V.) Compare sus resultados con los del problema 34.
 
 a. Dibuje tres wattímetros correctamente en el circuito.
 
+![image](https://user-images.githubusercontent.com/84458025/132720232-d82b2b82-7ea1-456a-99ee-0169d52777e9.png)
+
 b. Calcule la lectura de cada uno.
+
+![image](https://user-images.githubusercontent.com/84458025/132720279-63afaadd-ce10-458a-9eb5-ed0288fcbaa0.png)
 
 c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
 
+![image](https://user-images.githubusercontent.com/84458025/132720328-bc31347d-c1f3-400f-9c3f-268bc5d11fea.png)
+
 49. Para el circuito de la figura 24-56, Vab = 208 V∠30°.
+
+![image](https://user-images.githubusercontent.com/84458025/132720397-7168e073-7749-4832-aa87-ae1e706ddbb6.png)
 
 a. Determine la magnitud y ángulo de las corrientes.
 
+![image](https://user-images.githubusercontent.com/84458025/132720444-ea12ac98-5206-41d3-9489-370be9b2e28b.png)
+
 b. Determine la potencia por fase y la potencia total, PT.
+
+![image](https://user-images.githubusercontent.com/84458025/132720505-3097ade6-55ff-4f0a-8330-99a2b6650e28.png)
 
 c. Calcule las lecturas de cada wattímetro.
 
+![image](https://user-images.githubusercontent.com/84458025/132720558-2ff4af86-5609-40d4-8d71-2cf8145a6745.png)
+
 d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
+
+![image](https://user-images.githubusercontent.com/84458025/132720600-9853b816-4d23-4123-8b12-440e16c5ec31.png)
 
 51. Considere el circuito de la figura 24-56.
 
+![image](https://user-images.githubusercontent.com/84458025/132720641-78ac39ed-482e-49c5-81ab-e01d28e1f3b4.png)
+
 a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.
 
+![image](https://user-images.githubusercontent.com/84458025/132720665-6dd071a3-35f5-4708-a819-565b5afc46b1.png)
+
 b. En el problema 49 se determinaron las lecturas del wattímetro en Ph = 1164 W y PL = 870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).
+
+![image](https://user-images.githubusercontent.com/84458025/132720699-72512893-ad5b-4128-b306-c4fa8179c07a.png)
 
 ### 3.2.7 CARGAS DESBALANCEADAS 
 53. Para la figura 24-58, Rab  60 , Zbc  80 j60 . Calcule
 
+![image](https://user-images.githubusercontent.com/84458025/132720763-26c1934a-338c-4ddb-850f-a182abc6bf6d.png)
+
 a. Las corrientes de fase y de línea.
+
+![image](https://user-images.githubusercontent.com/84458025/132720822-2a9c78d3-6087-4a5d-8f49-70b6d7644456.png)
 
 b. La potencia en cada fase y la potencia total.
 
+![image](https://user-images.githubusercontent.com/84458025/132720878-f8fd4d27-1003-40ad-9219-1edd54ab4ba7.png)
+
+![image](https://user-images.githubusercontent.com/84458025/132720948-9f74ec30-d3e6-4f2c-ad54-fe86c2da9dde.png)
+
 55. Para la figura 24-59, calcule lo siguiente:
+
+![image](https://user-images.githubusercontent.com/84458025/132720975-458957ae-55f4-44b2-b132-78aec0b89040.png)
 
 a. Las corrientes de línea, sus magnitudes y ángulos.
 
+![image](https://user-images.githubusercontent.com/84458025/132721018-47fa4246-da19-4e8a-b6e5-a0c8c933bfef.png)
+
 b. La corriente en el neutro.
+
+![image](https://user-images.githubusercontent.com/84458025/132721058-d24c9469-fd77-47bf-a49a-7caea90805ee.png)
 
 c. La potencia en cada fase.
 
+![image](https://user-images.githubusercontent.com/84458025/132721104-9099a213-0dd0-4865-aff1-0fc20f0a417f.png)
+
 d. Potencia total en la carga.
+
 
 ![55 1 (2)](https://user-images.githubusercontent.com/84431598/132689582-9f825fd4-31b7-415b-8baf-01957d6a9b04.png)
 
