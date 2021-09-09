@@ -134,16 +134,43 @@ b. Determine Ig, IL, y VL.
 
 Para cada circuito indique que signo usar con M, más o menos.
 
+![image](https://user-images.githubusercontent.com/84425276/132607501-d147b451-ac06-4295-a6c6-08bc098478e5.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/84425276/132607571-d57bc35a-6fc3-4ecb-b5f7-abaa6fdb504f.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132607583-deee0b17-55b6-46c5-a24b-d22160a47a9a.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84425276/132607596-e52f84f8-bd8e-47c2-9a9c-088ca2edc319.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132607604-54bd879a-e85d-45c3-af80-b0b769de9ae7.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/84425276/132607620-1967c6a1-6f46-4fed-bbc8-f758d11776ab.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132607626-88b2419f-a32a-4912-b6b9-49885addb305.png)
+
 31. Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
 
+![image](https://user-images.githubusercontent.com/84425276/132607679-6e698719-d7b5-45f5-a0bc-41dcc4074823.png)
 
 33. Todo igual que en el problema 32, excepto que i1 = 10 e^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcule los a t = 1 ms.
 
 ![image](https://user-images.githubusercontent.com/84425276/132606901-c276ca2c-42a3-40f9-9ac1-f07c1ca1a80d.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132607746-943784a1-1e13-4c57-ac2b-9c7fd05f208f.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132607766-3d24fb8a-dab8-4002-a6ed-32eae41d4bd7.png)
+
 35. Para la figura 23-80, determine LT.
 
 ![image](https://user-images.githubusercontent.com/84425276/132602810-23a25522-f3b3-496f-b175-587a39728706.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132607824-c93db671-9ca4-4e2a-bccb-913fc603d659.png)
 
 ### 3.1.10 CIRCUITOS ACOPLADOS MAGNÉTICAMENTE CON EXCITACIÓN SINUSOIDAL 
 ### 3.1.12 ANÁLISIS DE CIRCUITOS POR COMPUTADORA 
