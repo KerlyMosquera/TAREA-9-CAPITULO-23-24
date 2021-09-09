@@ -106,14 +106,26 @@ a.	I1 b. I2 c. IN d. Ip
 
 ![image](https://user-images.githubusercontent.com/84425276/132606572-2a62edbb-3a06-4344-8a25-27a40d866115.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132607125-691894c2-cc2b-490e-adf1-13549ca5bba5.png)
+
 ### 3.1.6 TRANSFORMADORES DE NÚCLEO DE HIERRO PRÁCTICOS 
 25. Para la figura 23-77, Eg = 1220 V∠∠0°.
-a. Dibuje el circuito equivalente.
-b. Determine Ig, IL, y VL.
 
 ![image](https://user-images.githubusercontent.com/84425276/132602768-2db10859-0081-4dd9-a2fd-829ac52719ce.png)
 
+a. Dibuje el circuito equivalente.
+
+![image](https://user-images.githubusercontent.com/84425276/132607291-0a201e16-f6d5-4d94-b46d-115b02720c5e.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132607316-5f140967-f4cd-4bc2-8d98-3ef3a16fd807.png)
+
+b. Determine Ig, IL, y VL.
+
+![image](https://user-images.githubusercontent.com/84425276/132607327-95bef86d-c97a-44e8-abe2-19832fa23e54.png)
+
 27. Un transformador que entrega Psal = 48 kW tiene un perdida en el núcleo de 280 W y una perdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+
+![image](https://user-images.githubusercontent.com/84425276/132607407-53b2e896-e883-4711-97a1-ac4d500406e1.png)
 
 ### 3.1.9 CIRCUITOS DÉBILMENTE ACOPLADOS 
 29. Para la figura 23-78,
