@@ -196,7 +196,28 @@ c)
 
 ![image](https://user-images.githubusercontent.com/84425276/132607824-c93db671-9ca4-4e2a-bccb-913fc603d659.png)
 
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su
+inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
+
+<div align="center">
+
+![23-82 (2)](https://user-images.githubusercontent.com/84458025/132618981-57cc8f83-1b5d-405b-a0da-4b354c1db52b.png)
+ 
+</div>
+
+![37 (2)](https://user-images.githubusercontent.com/84458025/132619886-d86b701a-fffa-41b6-83cf-bd8ac1b39048.png)
+
 ### 3.1.10 CIRCUITOS ACOPLADOS MAGNÉTICAMENTE CON EXCITACIÓN SINUSOIDAL 
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
+
+<div align="center">
+  
+![23-83 (2)](https://user-images.githubusercontent.com/84458025/132619985-d87d8fce-0d38-4de4-bed7-97ad0bd4dff4.png)
+
+</div>
+
+
 ### 3.1.12 ANÁLISIS DE CIRCUITOS POR COMPUTADORA 
 ## 3.2 SISTEMA DE TRES FASES
 ### 3.2.2CONEXIONES BÁSICAS DE CIRCUITOS TRIFÁSICOS 
