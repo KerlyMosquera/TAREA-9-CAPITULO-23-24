@@ -376,9 +376,17 @@ nominal de 208 V.) Compare sus resultados con los del problema 34.
 
 41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
-43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+![41 (2)](https://user-images.githubusercontent.com/84431598/132688707-1937026c-36a0-408d-a5b9-e75921f9374a.png)
+
+43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR / (ind). Seleccione Van como referencia y determine Ia. (Usa el triángulo de potencia)
+
+![43 1 (2)](https://user-images.githubusercontent.com/84431598/132689209-a54bb2cf-d232-4a97-9f90-4e0b5f6311cd.png)
+
+![43 2 (2)](https://user-images.githubusercontent.com/84431598/132689313-ed25f26d-d0c3-44c7-9750-44d219f28c84.png)
 
 45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+
+
 ### 3.2.6 MEDICIÓN DE POTENCIA EN CIRCUITOS TRIFÁSICOS 
 47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
 
@@ -427,9 +435,33 @@ c. La potencia en cada fase.
 
 d. Potencia total en la carga.
 
+![55 1 (2)](https://user-images.githubusercontent.com/84431598/132689582-9f825fd4-31b7-415b-8baf-01957d6a9b04.png)
 
+![55 2 (2)](https://user-images.githubusercontent.com/84431598/132689750-f8df8b15-541e-4426-b46d-91dd482fbf43.png)
+
+![55 3 (2)](https://user-images.githubusercontent.com/84431598/132689994-26778515-1cbc-451d-b1a2-90d55bc463ed.png)
+
+![55 4 (2)](https://user-images.githubusercontent.com/84431598/132690108-1b86bbdb-9ac4-4f6f-a872-c36df5371bdd.png)
+
+57. A partir del problema 56, I_a = 1,94 A ∠-0,737 °, I_b = 4,0 A ∠-117,7 ° e I_c = 3,57 A ∠91,4 °. Calcule lo siguiente:
+
+a. Los voltajes en cada fase de la carga.
+
+b. El voltaje entre el neutro de la carga y el neutro del generador.
+
+![57 (2)](https://user-images.githubusercontent.com/84431598/132688952-9f13702e-3b7f-435e-98a7-c697934b7974.png)
 
 ### 3.2.9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
+59. Para el sistema balanceado de la figura 24-48, sea E_AN=277B ∠-30°
+C = 50 μF, y f =212 Hz. Encuentre las corrientes de fase y las corrientes de
+línea.
+
+61. Para la figura 24-59, sea L = 40 mH, C =50 μF, y ω= 1000 rad/s. Encuentre
+las corrientes de línea y del neutro. Usuario de Multisim: no olvide que algunas
+versiones de Multisim no manejan correctamente los ángulos de fase de
+la fuente y por ello deberá ingresar el negativo del Angulo que quiere en realidad
+(como se detalló en el capítulo 15).
+
 ## 4. VIDEO
 ## 5. CONCLUSIONES
 ### 5.1  TRANSFORMADORES Y CIRCUITOS ACOPLADOS 
