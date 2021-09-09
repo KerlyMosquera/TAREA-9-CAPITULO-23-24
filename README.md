@@ -543,13 +543,10 @@ línea.
 
 ![59](https://user-images.githubusercontent.com/84458025/132721693-f34273c7-980b-48e2-8a4f-7ce6ea16b778.png)
 
-61. Para la figura 24-59, sea L = 40 mH, C =50 μF, y ω= 1000 rad/s. Encuentre
-las corrientes de línea y del neutro. Usuario de Multisim: no olvide que algunas
-versiones de Multisim no manejan correctamente los ángulos de fase de
-la fuente y por ello deberá ingresar el negativo del Angulo que quiere en realidad
-(como se detalló en el capítulo 15).
-
 ## 4. VIDEO
+ 
+ https://youtu.be/7j3vHVePiQA
+ 
 ## 5. CONCLUSIONES
 ### 5.1  TRANSFORMADORES Y CIRCUITOS ACOPLADOS 
 ### 5.2 SISTEMAS DE TRES FASES 
