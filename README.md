@@ -61,36 +61,55 @@ e. Si Ep = 800 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura
 
 ![image](https://user-images.githubusercontent.com/84425276/132606326-4af4f556-0494-4ad5-95b1-eb4a39efa00a.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132608753-fa966985-b5b6-4527-a5c1-de6362c496c9.png)
+
 5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.
 
 ![image](https://user-images.githubusercontent.com/84425276/132602318-8f75b0c5-65a8-4525-af58-9e63f93548cc.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132608777-1312067b-a085-4489-beff-cef33911da51.png)
 
 7. Si, para la figura 23-73, Eg = 240 V∠0°, a = 0.5, e Ig = 2 A∠20°, determine lo siguiente:
 a. IL b. VL c. ZL
 
 ![image](https://user-images.githubusercontent.com/84425276/132602350-0d7da342-98f9-4b9a-b810-96a04aca624a.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132608797-d56260f9-097b-494a-b334-e952b271a0ad.png)
+
 9. Si, para la figura 23-73, a = 4, Ig = 4 A∠30°, y ZL = 6 Ω - j8 Ω, determine lo siguiente:
 a. VL b. Eg
 
 ![image](https://user-images.githubusercontent.com/84425276/132602372-5a3a69b8-fc63-4b9e-a9a4-9e88d9c8c7b4.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132608875-548a0722-29a8-440a-bb99-eeb9f311a451.png)
 
 ### 3.1.3 IMPEDANCIA REFLEJADA 
 11. Para cada circuito de la figura 23-74, determine Zp.
 
 ![image](https://user-images.githubusercontent.com/84425276/132602420-91c64969-4d1a-465a-b1a0-1e7e80a8ab6e.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132608907-2b94dbc7-eff6-4ff6-aff9-5778ea9b2723.png)
+
 13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125) Ω?
 
 ![image](https://user-images.githubusercontent.com/84425276/132606366-82504d0d-7e2c-4bc8-8919-9f1dad240aa5.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132608938-d0ab1ac2-5167-4964-a523-e572e51e4e23.png)
 
 15. Para cada circuito de la figura 23-75, determine ZT.
 
 ![image](https://user-images.githubusercontent.com/84425276/132602430-61a3f3c5-539d-4447-9fef-1c7829e28c1d.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132608990-da30c349-196a-4cf9-87e6-5b7492b52450.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132609013-a3b91f17-82d9-4a73-beda-b1aeb8f017d4.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132609033-5541c3f3-a76a-45b5-babe-05163cffcea1.png)
+
 ### 3.1.4 ESPECIFICACIONES DEL TRANSFORMADOR DE POTENCIA 
 17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a = 0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?
 
+![image](https://user-images.githubusercontent.com/84425276/132609079-e77c53ae-211c-4272-a789-5cbfac43a762.png)
 
 ### 3.1.5 APLICACIONES DEL TRANSFORMADOR 
 19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de
@@ -99,8 +118,13 @@ a.	I1 b. I2 c. IN d. Ip
 
 ![image](https://user-images.githubusercontent.com/84425276/132602607-3430da81-0bb0-4803-a923-0946a9d5c00c.png)
 
+![image](https://user-images.githubusercontent.com/84425276/132609157-dfcc38f7-0e4a-4a8a-8971-ab46e6e1be91.png)
+
 21. Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ω manejan una bocina de 4 Ω a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
+![image](https://user-images.githubusercontent.com/84425276/132609206-8816997c-6b6a-474b-a993-5c94a1b69f4e.png)
+
+![image](https://user-images.githubusercontent.com/84425276/132609214-19fc7b61-34c6-4f5e-b471-255e7896ec69.png)
 
 23. Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4)  Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
