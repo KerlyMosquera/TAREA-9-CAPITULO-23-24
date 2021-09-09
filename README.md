@@ -48,13 +48,30 @@
 ![Pruebas de los transformadores](https://user-images.githubusercontent.com/84425276/132729927-a955e1fa-e4b9-49f1-a425-caf11a07b201.png)
 
 ### 2.1.8 EFECTOS DEL VOLTAJE Y LA FRECUENCIA 
+
+![EFECTOR (2)](https://user-images.githubusercontent.com/84458025/132730991-55f3dfcc-360a-4024-8f7d-0ce08eb638c5.png)
+
 ### 2.1.9 CIRCUITOS DÉBILMENTE ACOPLADOS 
+
+![DEBIL (2)](https://user-images.githubusercontent.com/84458025/132731087-0b4026a3-055d-45c8-85fe-967c0644a128.png)
+
 ### 2.1.10 CIRCUITOS ACOPLADOS MAGNÉTICAMENTE CON EXCITACIÓN SINUSOIDAL 
+
+![ACOPLADO (2)](https://user-images.githubusercontent.com/84458025/132731234-243d037e-90fa-4971-91c1-f0d060c8edde.png)
+
 ### 2.1.11 IMPEDANCIA ACOPLADA 
+
+![IMPEDA ACO (2)](https://user-images.githubusercontent.com/84458025/132731349-6f3098ad-18bd-4f70-8912-e4594a3a08c9.png)
+
 ### 2.1.12 ANÁLISIS DE CIRCUITOS POR COMPUTADORA 
+
+![ANA (2)](https://user-images.githubusercontent.com/84458025/132731479-1a720b40-d3d0-46fc-a0d6-f5a6e56e2cbc.png)
+
 ## 2.2 SISTEMA DE TRES FASES
 ### 2.2.1 GENERACIÓN DE VOLTAJE TRIFÁSICO 
-### 2.2.2 CONEXIONES BÁSICAS DE CIRCUITOS TRIFÁSICOS 
+
+![GER (2)](https://user-images.githubusercontent.com/84458025/132731588-338616b1-064c-46bb-abf1-667c755224c3.png)
+
 ### 2.2.3 RELACIONES TRIFÁSICAS BÁSICAS 
 
 ![RELACIONES (2)](https://user-images.githubusercontent.com/84431598/132711904-ab755527-c359-45a0-b6a3-005da4cc5a56.png)
@@ -263,26 +280,6 @@ inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
 </div>
 
 
-### 3.1.12 ANÁLISIS DE CIRCUITOS POR COMPUTADORA 
-43. Un transformador con núcleo de hierro con una relación de vueltas 4:1 tiene una carga que consiste en un resistor de 12 Ω en serie con un capacitor de 250 μF. El transformador se opera con una fuente de 120-V ∠ 0° y 60 Hz Utilice Multisim o PSpice para determinar las corrientes de la fuente y la carga. Verifique las respuestas con cálculos manuales.
-
-
-45. Use PSpice para encontrar la corriente de la fuente para los inductores en paralelo acoplados de la figura 23-82. Sugerencia: use XFRM_LINEAR para hacer el modelo de los dos inductores. Necesitará un resistor de valor bajo en serie con cada inductor para evitar que se creen lazos fuente-inductor.
-
-<div align="center">
- 
-![23-82 (2)](https://user-images.githubusercontent.com/84458025/132621928-4f654e46-ceb8-459c-8774-2c7cdfaee854.png)
-
-</div>
-
-47. Encuentre las corrientes de la figura 23-63 con PSpice. Compare estas respuestas con las de los Problemas prácticos 8.
-
-<div align="center">
- 
-![23-63 (2)](https://user-images.githubusercontent.com/84458025/132622086-8902795f-b895-467a-992e-e49f6abda2e1.png)
-
- </div>
-
 ## 3.2 SISTEMA DE TRES FASES
 ### 3.2.2CONEXIONES BÁSICAS DE CIRCUITOS TRIFÁSICOS 
 1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumaran cero. Para ilustrarlo,
@@ -343,12 +340,9 @@ c. Dibuje el diagrama fasorial
 
  ![image](https://user-images.githubusercontent.com/84458025/132727160-90fc6259-c1ae-46f1-b2d5-6824563a05d6.png)
 
-17. a. Para cierta carga Y balanceada, Vab = 208 V∠30°, Ia = 24 A∠40° y f = 60 Hz. Determine la carga (R y L o C).
+
 
  
-19. Una carga  balanceada a 60 Hz tiene una corriente de Ibc = 4.5 A∠-85°. El voltaje de línea es de 240 volts y Vab se toma como referencia.
-
-
 ### 3.2.4 EJEMPLOS 
 21. Para la figura 24-49, Van = 120 V∠0°. Dibuje el equivalente de una sola fase y:
 
