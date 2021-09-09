@@ -318,23 +318,15 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea = 0.15Ω+ j0.25Ω y EAN = 120 V∠0°. Convierta la carga  en Y y use el equivalente de una fase para encontrar las corrientes de línea.
 
-<div align="center">
-
 ![24-48 (2)](https://user-images.githubusercontent.com/84458025/132624617-162862af-bd72-47fb-bc0e-72f8fb3548f2.png)
  
- </ div >
-
 ![25 (2)](https://user-images.githubusercontent.com/84431598/132624988-3ecd69dd-8674-4786-a40f-081a83c417ac.png)
 
 
 27. Para el circuito de la figura 24-49, suponga que Zlínea = 0.15Ω + j0.25Ω y Vab = 600 V∠30°. Determine EAB.
 
-<div align="center">
-
 ![28-49 (2)](https://user-images.githubusercontent.com/84458025/132625314-2388ebe5-5d51-4479-a4bc-9cb757c5f1c5.png)
  
-</ div >
-
 ![27 (2)](https://user-images.githubusercontent.com/84431598/132627981-e49d4a10-8680-4523-b623-efb4202bcbb1.png)
 
 
@@ -353,13 +345,9 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 ### 3.2.5 POTENCIA EN SISTEMAS BALANCEADOS
 33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.
-
-<div align="center">
  
 ![24-51 (2)](https://user-images.githubusercontent.com/84458025/132625930-86ff219f-82ce-4d53-b804-287165627ade.png)
  
-</ div >
-
 ![33 1 (3)](https://user-images.githubusercontent.com/84431598/132628332-070751dd-9e33-424e-8d2f-7357f0b7361b.png)
 
 ![33 2 (2)](https://user-images.githubusercontent.com/84431598/132628450-542031be-adf6-4400-8f0e-7f49f3a1f63f.png)
@@ -367,27 +355,24 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor
 nominal de 208 V.) Compare sus resultados con los del problema 34.
 
-<div align="center">
-
 ![24-47 (2)](https://user-images.githubusercontent.com/84458025/132626020-18797b35-4a72-4b8a-98d9-e6b4a00ff937.png)
 
-</ div >
+![53 (2)](https://user-images.githubusercontent.com/84431598/132628917-91adf441-e61d-419f-bc20-302ebe139072.png)
 
 37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
-
-<div align="center">
  
 ![24-48 (2)](https://user-images.githubusercontent.com/84458025/132626157-9c3005e1-5da0-4c27-808c-df71a29c63bf.png)
 
-</ div >
+![37 1 (2)](https://user-images.githubusercontent.com/84431598/132629046-2300964a-fdb4-4827-8b4a-281a57acb183.png)
+
+![37 2 (2)](https://user-images.githubusercontent.com/84431598/132629127-5d7f8891-9fab-4b12-80d2-62e67660e143.png)
 
 39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
-
-<div align="center">
  
 ![24-53 (2)](https://user-images.githubusercontent.com/84458025/132626318-4dc05ebb-1a93-4e27-ac05-b8ac426af4fc.png)
 
-</ div >
+![39 (3)](https://user-images.githubusercontent.com/84431598/132629257-94c288e7-98cd-42ee-8d65-ac1354388346.png)
+
 
 41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
