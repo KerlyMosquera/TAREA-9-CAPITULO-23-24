@@ -326,9 +326,111 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 </ div >
 
+27. Para el circuito de la figura 24-49, suponga que Zlínea = 0.15Ω + j0.25Ω y Vab = 600 V∠30°. Determine EAB.
+
+<div align="center">
+
+![28-49 (2)](https://user-images.githubusercontent.com/84458025/132625314-2388ebe5-5d51-4479-a4bc-9cb757c5f1c5.png)
+ 
+</ div >
+
+29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga  es Va´b´ = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+31. Para la figura 24-21(a), ZY = 15Ω + j20Ω, Z = 9 Ω- j12Ω, Zlínea = 0.1Ω + j0.1Ω, e Ia´b´ = 40 A∠73.13°. Encuentre el voltaje de fase Y Van, magnitud y ángulo.
+
+<div align="center">
+ 
+</ div >
+
 ### 3.2.5 POTENCIA EN SISTEMAS BALANCEADOS
+33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.
+
+<div align="center">
+ 
+![24-51 (2)](https://user-images.githubusercontent.com/84458025/132625930-86ff219f-82ce-4d53-b804-287165627ade.png)
+ 
+</ div >
+
+35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor
+nominal de 208 V.) Compare sus resultados con los del problema 34.
+
+<div align="center">
+
+![24-47 (2)](https://user-images.githubusercontent.com/84458025/132626020-18797b35-4a72-4b8a-98d9-e6b4a00ff937.png)
+
+</ div >
+
+37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.
+
+<div align="center">
+ 
+![24-48 (2)](https://user-images.githubusercontent.com/84458025/132626157-9c3005e1-5da0-4c27-808c-df71a29c63bf.png)
+
+</ div >
+
+39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+
+<div align="center">
+ 
+![24-53 (2)](https://user-images.githubusercontent.com/84458025/132626318-4dc05ebb-1a93-4e27-ac05-b8ac426af4fc.png)
+
+</ div >
+
+41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
+
+43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+
+45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
 ### 3.2.6 MEDICIÓN DE POTENCIA EN CIRCUITOS TRIFÁSICOS 
+47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
+
+<div align="center">
+
+![24-47 (2)](https://user-images.githubusercontent.com/84458025/132626572-8c0ba9e3-b265-4b5b-be9a-6a97c387199c.png)
+
+ </ div >
+
+a. Dibuje tres wattímetros correctamente en el circuito.
+
+b. Calcule la lectura de cada uno.
+
+c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
+
+49. Para el circuito de la figura 24-56, Vab = 208 V∠30°.
+
+a. Determine la magnitud y ángulo de las corrientes.
+
+b. Determine la potencia por fase y la potencia total, PT.
+
+c. Calcule las lecturas de cada wattímetro.
+
+d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
+
+51. Considere el circuito de la figura 24-56.
+
+a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.
+
+b. En el problema 49 se determinaron las lecturas del wattímetro en Ph = 1164 W y PL = 870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).
+
 ### 3.2.7 CARGAS DESBALANCEADAS 
+53. Para la figura 24-58, Rab  60 , Zbc  80 j60 . Calcule
+
+a. Las corrientes de fase y de línea.
+
+b. La potencia en cada fase y la potencia total.
+
+55. Para la figura 24-59, calcule lo siguiente:
+
+a. Las corrientes de línea, sus magnitudes y ángulos.
+
+b. La corriente en el neutro.
+
+c. La potencia en cada fase.
+
+d. Potencia total en la carga.
+
+
+
 ### 3.2.9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 ## 4. VIDEO
 ## 5. CONCLUSIONES
