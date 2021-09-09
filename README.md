@@ -104,6 +104,7 @@ a.	I1 b. I2 c. IN d. Ip
 
 23. Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4)  Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
+![image](https://user-images.githubusercontent.com/84425276/132606572-2a62edbb-3a06-4344-8a25-27a40d866115.png)
 
 ### 3.1.6 TRANSFORMADORES DE NÚCLEO DE HIERRO PRÁCTICOS 
 25. Para la figura 23-77, Eg = 1220 V∠∠0°.
