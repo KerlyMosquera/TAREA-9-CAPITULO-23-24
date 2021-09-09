@@ -321,10 +321,11 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 <div align="center">
 
 ![24-48 (2)](https://user-images.githubusercontent.com/84458025/132624617-162862af-bd72-47fb-bc0e-72f8fb3548f2.png)
+ 
+ </ div >
 
 ![25 (2)](https://user-images.githubusercontent.com/84431598/132624988-3ecd69dd-8674-4786-a40f-081a83c417ac.png)
 
-</ div >
 
 27. Para el circuito de la figura 24-49, suponga que Zlínea = 0.15Ω + j0.25Ω y Vab = 600 V∠30°. Determine EAB.
 
