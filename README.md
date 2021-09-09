@@ -286,7 +286,44 @@ c. Dibuje el diagrama fasorial
 
 </div>
 
+13. Para el circuito de la figura 24-48, si Iab = 10 A∠- 21°, determine todos los voltajes de línea.
+
+15. Una carga Y balanceada tiene una impedancia de fase de 24 Ω ∠33 °y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea.
+
+17. a. Para cierta carga Y balanceada, Vab = 208 V∠30°, Ia = 24 A∠40° y f = 60 Hz. Determine la carga (R y L o C).
+
+19. Una carga  balanceada a 60 Hz tiene una corriente de Ibc = 4.5 A∠-85°. El voltaje de línea es de 240 volts y Vab se toma como referencia.
+
+
 ### 3.2.4 EJEMPLOS 
+21. Para la figura 24-49, Van = 120 V∠0°. Dibuje el equivalente de una sola fase y:
+
+<div align="center">
+ 
+![28-49 (2)](https://user-images.githubusercontent.com/84458025/132624503-37ea5318-24cc-4fe1-9f29-e14fbfdbd022.png)
+
+ </div>
+
+a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
+
+b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
+
+23. Para la figura 24-48, EAN =120 V∠-10°. Encuentre la corriente de línea con el método equivalente de una sola fase.
+
+<div align="center">
+
+![24-48 (2)](https://user-images.githubusercontent.com/84458025/132624609-1ab60143-311d-4f00-8283-ba0c310f98cb.png)
+
+</div>
+
+25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea = 0.15Ω+ j0.25Ω y EAN = 120 V∠0°. Convierta la carga  en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+
+<div align="center">
+
+![24-48 (2)](https://user-images.githubusercontent.com/84458025/132624617-162862af-bd72-47fb-bc0e-72f8fb3548f2.png)
+
+</div>
+
 ### 3.2.5 POTENCIA EN SISTEMAS BALANCEADOS 
 ### 3.2.6 MEDICIÓN DE POTENCIA EN CIRCUITOS TRIFÁSICOS 
 ### 3.2.7 CARGAS DESBALANCEADAS 
