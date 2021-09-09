@@ -390,11 +390,7 @@ nominal de 208 V.) Compare sus resultados con los del problema 34.
 ### 3.2.6 MEDICIÓN DE POTENCIA EN CIRCUITOS TRIFÁSICOS 
 47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
 
-<div align="center">
-
 ![24-47 (2)](https://user-images.githubusercontent.com/84458025/132626572-8c0ba9e3-b265-4b5b-be9a-6a97c387199c.png)
-
- </ div >
 
 a. Dibuje tres wattímetros correctamente en el circuito.
 
