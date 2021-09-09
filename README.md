@@ -310,11 +310,9 @@ c. Dibuje el diagrama fasorial
 
 7. Para la carga de la figura 24-47, Van = 347 V∠ 15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
 
-<div align="center">
  
 ![24-47 (2)](https://user-images.githubusercontent.com/84458025/132622820-df2ef65d-158f-401d-9fc0-d2c23867f9f1.png)
 
- </div>
  
  ![image](https://user-images.githubusercontent.com/84458025/132726929-8f93b89c-b9ca-4847-9084-e5bf179e9640.png)
 
@@ -326,7 +324,6 @@ c. Dibuje el diagrama fasorial
 
 11. Para el circuito de la figura 24-48, Vab = 480 V∠0°. Encuentre la fase y las corrientes de línea.
 
-<div align="center">
  
 ![image](https://user-images.githubusercontent.com/84458025/132727055-52a302fb-b0f1-4a7d-828a-47d59ff08190.png)
 
@@ -340,28 +337,8 @@ c. Dibuje el diagrama fasorial
 
  ![image](https://user-images.githubusercontent.com/84458025/132727160-90fc6259-c1ae-46f1-b2d5-6824563a05d6.png)
 
-
-
  
 ### 3.2.4 EJEMPLOS 
-21. Para la figura 24-49, Van = 120 V∠0°. Dibuje el equivalente de una sola fase y:
-
-<div align="center">
- 
-![28-49 (2)](https://user-images.githubusercontent.com/84458025/132624503-37ea5318-24cc-4fe1-9f29-e14fbfdbd022.png)
- </div>
-
-a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
-
-b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
-
-23. Para la figura 24-48, EAN =120 V∠-10°. Encuentre la corriente de línea con el método equivalente de una sola fase.
-
-<div align="center">
-
-![24-48 (2)](https://user-images.githubusercontent.com/84458025/132624609-1ab60143-311d-4f00-8283-ba0c310f98cb.png)
-
-</div>
 
 25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea = 0.15Ω+ j0.25Ω y EAN = 120 V∠0°. Convierta la carga  en Y y use el equivalente de una fase para encontrar las corrientes de línea.
 
@@ -548,6 +525,14 @@ línea.
  https://youtu.be/7j3vHVePiQA
  
 ## 5. CONCLUSIONES
-### 5.1  TRANSFORMADORES Y CIRCUITOS ACOPLADOS 
-### 5.2 SISTEMAS DE TRES FASES 
+- Un generador conectado en delta. Por razones prácticas, los generadores en delta se usan rara vez en los sistemas de potencia.
+- Un generador trifásico simple se compone de tres espiras conductoras separadas por 120°.
+- Tres ventajas de los sistemas trifásicos sobre los monofásicos son una sección transversal de cobre más pequeña para la misma potencia suministrada a la carga, una potencia constante suministrada a la carga, y un campo magnético rotatorio constante.
+- En un generador conectado en delta, hay una diferencia de 30° entre cada corriente de línea y la corriente de fase más cercana.
+- Una carga balanceada es una carga donde todas las impedancias son iguales.
+ - En una carga trifásica la potencia se mide aplicando o el método de tres wattímetros o el método de dos
+wattímetros.
 ## 6. BIBLIOGRAFÍA
+- Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed).* México DF, México: Pearson Educación.
+
+- Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed).* México DF, México: Cengage Learning.
