@@ -58,6 +58,9 @@ b. Si es = 100 sen t, ¿qué valor tiene ep cuando se devana como en la figur
 c. Si Es = 24 volts, ¿qué valor tiene Ep?
 d. Si Ep = 24 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)?
 e. Si Ep = 800 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?
+
+![image](https://user-images.githubusercontent.com/84425276/132606326-4af4f556-0494-4ad5-95b1-eb4a39efa00a.png)
+
 5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.
 
 ![image](https://user-images.githubusercontent.com/84425276/132602318-8f75b0c5-65a8-4525-af58-9e63f93548cc.png)
@@ -79,6 +82,7 @@ a. VL b. Eg
 
 13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125) Ω?
 
+![image](https://user-images.githubusercontent.com/84425276/132606366-82504d0d-7e2c-4bc8-8919-9f1dad240aa5.png)
 
 15. Para cada circuito de la figura 23-75, determine ZT.
 
