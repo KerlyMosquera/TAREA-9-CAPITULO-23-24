@@ -23,12 +23,30 @@
 ##  2. MARCO TEÓRICO (RESUMEN)
 ## 2.1 TRANSFORMADORES Y CIRCUITOS ACOPLADOS
 ### 2.1.1 INTRODUCCIÓN 
+
+![Introducción](https://user-images.githubusercontent.com/84425276/132729848-e596a223-5138-46ed-a0ee-795052eb5797.png)
+
 ### 2.1.2 TRANSFORMADORES DE NÚCLEO DE HIERRO: EL MODELO IDEAL 
+
+![Transformadores de núcleo de hierro_ el modelo ideal](https://user-images.githubusercontent.com/84425276/132729970-472ed04f-7709-4fe2-8338-58ec73be2b50.png)
+
 ### 2.1.3IMPEDANCIA REFLEJADA 
 ### 2.1.4 ESPECIFICACIONES DEL TRANSFORMADOR DE POTENCIA 
+
+![3 3  Impedancia reflejada (1)](https://user-images.githubusercontent.com/84425276/132730134-5b463907-4ffc-4c04-a2e3-1eb48cda999f.png)
+
 ### 2.1.5 APLICACIONES DEL TRANSFORMADOR 
+
+![Aplicaciones del transformador](https://user-images.githubusercontent.com/84425276/132730153-474de81f-667c-4061-be38-cc622928ae87.png)
+
 ### 2.1.6 TRANSFORMADORES DE NÚCLEO DE HIERRO PRÁCTICOS 
+
+![Transformadores de núcleo de hierro prácticos](https://user-images.githubusercontent.com/84425276/132729953-92d2b5e3-df1e-4d2e-a62f-b758af32e015.png)
+
 ### 2.1.7 PRUEBAS DE LOS TRANSFORMADORES 
+
+![Pruebas de los transformadores](https://user-images.githubusercontent.com/84425276/132729927-a955e1fa-e4b9-49f1-a425-caf11a07b201.png)
+
 ### 2.1.8 EFECTOS DEL VOLTAJE Y LA FRECUENCIA 
 ### 2.1.9 CIRCUITOS DÉBILMENTE ACOPLADOS 
 ### 2.1.10 CIRCUITOS ACOPLADOS MAGNÉTICAMENTE CON EXCITACIÓN SINUSOIDAL 
