@@ -130,7 +130,7 @@ b. Determine Ig, IL, y VL.
 ### 3.1.9 CIRCUITOS DÉBILMENTE ACOPLADOS 
 29. Para la figura 23-78,
 
-![image](https://user-images.githubusercontent.com/84425276/132602792-4c577744-e17f-4c77-8651-837950d8cc50.png)
+![image](https://user-images.githubusercontent.com/84425276/132608106-89856b5b-13ad-4b1b-b563-901b15ff8273.png)
 
 Para cada circuito indique que signo usar con M, más o menos.
 
