@@ -335,7 +335,17 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
  
 </ div >
 
+![image](https://user-images.githubusercontent.com/84431598/132627372-2d318cdd-d529-4696-9fc0-e579a1273ba4.png)
+
+
 29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga  es Va´b´ = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+![29 1 (2)](https://user-images.githubusercontent.com/84431598/132627562-ae44122a-b835-422e-b3e7-dff2371b67f6.png)
+
+![29 2 (2)](https://user-images.githubusercontent.com/84431598/132627640-77c4a9d9-39a3-4d4a-85ae-591efd2bac5a.png)
+
+![29 3 (2)](https://user-images.githubusercontent.com/84431598/132627714-bba4787b-02ff-46ae-a459-9a2fe378fab9.png)
+
 
 31. Para la figura 24-21(a), ZY = 15Ω + j20Ω, Z = 9 Ω- j12Ω, Zlínea = 0.1Ω + j0.1Ω, e Ia´b´ = 40 A∠73.13°. Encuentre el voltaje de fase Y Van, magnitud y ángulo.
 
