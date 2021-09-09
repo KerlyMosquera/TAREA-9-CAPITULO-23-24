@@ -162,8 +162,6 @@ c)
 
 ![image](https://user-images.githubusercontent.com/84425276/132606901-c276ca2c-42a3-40f9-9ac1-f07c1ca1a80d.png)
 
-![image](https://user-images.githubusercontent.com/84425276/132607746-943784a1-1e13-4c57-ac2b-9c7fd05f208f.png)
-
 ![image](https://user-images.githubusercontent.com/84425276/132607766-3d24fb8a-dab8-4002-a6ed-32eae41d4bd7.png)
 
 35. Para la figura 23-80, determine LT.
