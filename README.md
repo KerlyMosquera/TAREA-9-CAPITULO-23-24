@@ -217,6 +217,16 @@ inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
 
 </div>
 
+![39 (2)](https://user-images.githubusercontent.com/84458025/132620837-d2413f84-a309-4257-82d7-74bb10cc8c34.png)
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+<div align="center">
+ 
+![5 (2)](https://user-images.githubusercontent.com/84458025/132620956-e26c6ecb-5c97-41d7-9e9c-bf3a491ad820.png)
+
+</div>
+
 
 ### 3.1.12 ANÁLISIS DE CIRCUITOS POR COMPUTADORA 
 ## 3.2 SISTEMA DE TRES FASES
