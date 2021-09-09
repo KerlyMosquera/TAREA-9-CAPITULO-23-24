@@ -51,6 +51,8 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/132602284-83d3837a-4e14-4259-a51d-ec710c828481.png)
 
+a) es se encuentra en fase con ep
+b) ep se encuentra 180° fuera de fase cos es
 ### 3.1.2 TRANSFORMADORES DE NÚCLEO DE HIERRO: EL MODELO IDEAL 
 3. Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.
 a. ¿El voltaje se eleva o se reduce?
