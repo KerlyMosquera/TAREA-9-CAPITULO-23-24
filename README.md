@@ -229,9 +229,63 @@ inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
 
 
 ### 3.1.12 ANÁLISIS DE CIRCUITOS POR COMPUTADORA 
+43. Un transformador con núcleo de hierro con una relación de vueltas 4:1 tiene una carga que consiste en un resistor de 12 Ω en serie con un capacitor de 250 μF. El transformador se opera con una fuente de 120-V ∠ 0° y 60 Hz Utilice Multisim o PSpice para determinar las corrientes de la fuente y la carga. Verifique las respuestas con cálculos manuales.
+
+
+45. Use PSpice para encontrar la corriente de la fuente para los inductores en paralelo acoplados de la figura 23-82. Sugerencia: use XFRM_LINEAR para hacer el modelo de los dos inductores. Necesitará un resistor de valor bajo en serie con cada inductor para evitar que se creen lazos fuente-inductor.
+
+<div align="center">
+ 
+![23-82 (2)](https://user-images.githubusercontent.com/84458025/132621928-4f654e46-ceb8-459c-8774-2c7cdfaee854.png)
+
+</div>
+
+47. Encuentre las corrientes de la figura 23-63 con PSpice. Compare estas respuestas con las de los Problemas prácticos 8.
+
+<div align="center">
+ 
+![23-63 (2)](https://user-images.githubusercontent.com/84458025/132622086-8902795f-b895-467a-992e-e49f6abda2e1.png)
+
+ </div>
+
 ## 3.2 SISTEMA DE TRES FASES
 ### 3.2.2CONEXIONES BÁSICAS DE CIRCUITOS TRIFÁSICOS 
+1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumaran cero. Para ilustrarlo,
+cambie la impedancia de carga de 12 Ω a 15 Ω ∠ 30° Ω y para EAA =120 V ∠ 0°, haga lo siguiente:
+
+a. Calcule las corrientes IA, IB e IC.
+
+b. Sume las corrientes. ¿Se cumple IA + IB + IC = 0?
+
+3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
+
 ### 3.2.3 RELACIONES TRIFÁSICAS BÁSICAS 
+5. Para las cargas de la figura 24-4, Vbc = 208 V∠ - 75°.
+
+a. Determine los voltajes línea a línea Vab y Vca.
+
+b. Determine los voltajes de fase.
+
+c. Dibuje el diagrama fasorial
+
+7. Para la carga de la figura 24-47, Van = 347 V∠ 15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+
+<div align="center">
+ 
+![24-47 (2)](https://user-images.githubusercontent.com/84458025/132622820-df2ef65d-158f-401d-9fc0-d2c23867f9f1.png)
+
+ </div>
+ 
+ 9. Una carga Y balanceada tiene una impedancia de Zan = 14.7Ω ∠16 ° . Si Vcn = 120 V∠160° , determine todas las corrientes de línea.
+
+11. Para el circuito de la figura 24-48, Vab = 480 V∠0°. Encuentre la fase y las corrientes de línea.
+
+<div align="center">
+ 
+![24-48 (2)](https://user-images.githubusercontent.com/84458025/132623095-f3340a6d-f8aa-4b20-94c3-20c048eba3b6.png)
+
+</div>
+
 ### 3.2.4 EJEMPLOS 
 ### 3.2.5 POTENCIA EN SISTEMAS BALANCEADOS 
 ### 3.2.6 MEDICIÓN DE POTENCIA EN CIRCUITOS TRIFÁSICOS 
