@@ -125,7 +125,7 @@ Para cada circuito indique que signo usar con M, más o menos.
 
 
 33. Todo igual que en el problema 32, excepto que i1 = 10 e^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcule los a t = 1 ms.
-
+hh
 
 35. Para la figura 23-80, determine LT.
 
