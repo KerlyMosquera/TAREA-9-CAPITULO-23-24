@@ -121,12 +121,13 @@ b. Determine Ig, IL, y VL.
 ![image](https://user-images.githubusercontent.com/84425276/132602792-4c577744-e17f-4c77-8651-837950d8cc50.png)
 
 Para cada circuito indique que signo usar con M, más o menos.
+
 31. Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
 
 
 33. Todo igual que en el problema 32, excepto que i1 = 10 e^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcule los a t = 1 ms.
 
-
+![image](https://user-images.githubusercontent.com/84425276/132606901-c276ca2c-42a3-40f9-9ac1-f07c1ca1a80d.png)
 
 35. Para la figura 23-80, determine LT.
 
